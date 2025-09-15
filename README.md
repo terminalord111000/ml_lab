@@ -1,6 +1,7 @@
 # Machine Learning Algorithms from Scratch
 
 This repository explores the inner workings of **machine learning algorithms** by implementing them from scratch in Python and visualizing their behavior. Instead of relying on pre-built libraries, each model is carefully reconstructed step by step to highlight the ideas that make it work. The goal is to build a **deeper, first-hand understanding of the fundamentals** while reinforcing concepts through direct implementation.
+
 ---
 
 ## 📌 Features
@@ -15,12 +16,10 @@ This repository explores the inner workings of **machine learning algorithms** b
 ## 🚀 Algorithms Implemented
 
 * **Linear Regression**
-* **Logistic Regression**
-* **k-Nearest Neighbors (k-NN)**
-* **Decision Trees**
-* **Naïve Bayes**
-* **Support Vector Machines (SVM)**
-* **K-Means Clustering**
+  * with stochastic gradient descent
+  * with batch gradient descent
+**up next**
+locally weighted regression and the probabilitic interpreation
 * (More coming soon...)
 
 ---
@@ -29,12 +28,12 @@ This repository explores the inner workings of **machine learning algorithms** b
 
 * **Python 3**
 * **NumPy** (for numerical operations)
-* **Matplotlib / Seaborn** (for visualization)
+* **Matplotlib** (for visualization)
 * **Pandas** (for handling datasets)
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure (more like future project structure)
 
 ```
 ml_lab/
@@ -72,9 +71,9 @@ jupyter notebook notebooks/LinearRegression.ipynb
 
 ## 📸 Visualizations
 
-Example: *Decision boundary of Logistic Regression*
+Example: *Linear Regression with Stochastic Gradient descent*
 
-(👉 You can add images or GIFs of your plots here later.)
+(👉 add this image later.)
 
 ---
 
